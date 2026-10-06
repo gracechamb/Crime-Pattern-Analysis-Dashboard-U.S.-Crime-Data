@@ -2,9 +2,7 @@
 
 An interactive Tableau workbook analyzing reported crime incidents across five U.S. cities, built to help a police department's research team understand **what** crimes occur, **when** they happen, **how** patterns change over time, and **which** incidents lead to arrests.
 
-**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/grace.chamberlain/vizzes)**
-
-![Dashboard preview](dashboard-screenshot.png)
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/grace.chamberlain/viz/Tableaucrimeanalysis/CrimeMap)**
 
 ## The Question
 How can crime data be presented so that law enforcement can quickly spot patterns and decide where prevention and enforcement efforts would have the most impact?
